@@ -8,3 +8,7 @@
 
 ## Dataset Used
 - [Dataset Used](https://github.com/fatm2/Survey-Analysis-of-Data-Professionals-Dashboard/blob/main/Dataset.xlsx)
+
+## Interactive Dashboard in Power Bi
+
+- [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmY1Zjk2OWEtMzBlMi00OWRkLWE4NjktOWM3ODZlNzE4NWY0IiwidCI6IjUxNGZhYTE5LThjODQtNGNlZi04YWU5LTJiOWRiY2U5MzNjZCIsImMiOjl9)
